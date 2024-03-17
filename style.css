@@ -1,0 +1,22 @@
+body{
+    background-color: #0dcaf0;
+}
+#hero{
+    background-color: red;
+    height: 68vh;
+}
+
+section{
+    background-color: red;
+}
+
+footer{
+    height: 20vh;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #fff;
+}
